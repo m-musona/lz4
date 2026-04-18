@@ -38,7 +38,15 @@ compile_flags.txt
 compile_commands.json
 .vscode
 .cache
-
+**/bin/
+**/bin-int/
+Intermediates
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+bin/
+bin-int/
 # analyzers
 infer-out
 
